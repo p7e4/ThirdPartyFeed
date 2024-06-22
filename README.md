@@ -11,6 +11,7 @@ rss相关的一些资源
 - [ALL-about-RSS](https://github.com/aboutrss/ALL-about-RSS)
 - [各种转 RSS 服务](https://rss.lilydjwg.me/)
 - [diff.blog](https://diff.blog/)
+- [Kill the Newsletter](https://kill-the-newsletter.com/)
 
 
 ## 订阅源聚合
@@ -24,6 +25,7 @@ rss相关的一些资源
 - [中文独立博客列表](https://github.com/timqian/chinese-independent-blogs)
 - [微信公众号转RSS](https://wechat2rss.xlab.app/)
 - [awesome-security-weixin-official-accounts](https://github.com/DropsOfZut/awesome-security-weixin-official-accounts)
+- [中文独立博客列表](https://github.com/timqian/chinese-independent-blogs)
 
 
 ## 阅读器推荐
