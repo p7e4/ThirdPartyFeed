@@ -2,16 +2,17 @@
 
 rss相关的一些资源
 
-## RSS相关服务
+## RSS源相关服务
 
 - [RSSHub](https://docs.rsshub.app/)
 - [Telegram RSS / JSON generator](https://tg.i-c-a.su/)
 - [RSS-proxy](https://github.com/damoeb/rss-proxy)
 - [yarb (Yet Another Rss Bot)](https://github.com/firmianay/yarb)
-- [ALL-about-RSS](https://github.com/aboutrss/ALL-about-RSS)
 - [各种转 RSS 服务](https://rss.lilydjwg.me/)
-- [diff.blog](https://diff.blog/)
 - [Kill the Newsletter](https://kill-the-newsletter.com/)
+- [RSSWorker](https://github.com/yllhwa/RSSWorker)
+- [WeWe RSS](https://github.com/cooderl/wewe-rss)
+- [RSS翻译器](https://github.com/rss-translator/RSS-Translator)
 
 
 ## 订阅源聚合
@@ -26,6 +27,12 @@ rss相关的一些资源
 - [微信公众号转RSS](https://wechat2rss.xlab.app/)
 - [awesome-security-weixin-official-accounts](https://github.com/DropsOfZut/awesome-security-weixin-official-accounts)
 - [中文独立博客列表](https://github.com/timqian/chinese-independent-blogs)
+
+
+## 其他
+
+- [ALL-about-RSS](https://github.com/aboutrss/ALL-about-RSS)
+- [diff.blog](https://diff.blog/)
 
 
 ## 阅读器推荐
@@ -44,7 +51,6 @@ rss相关的一些资源
 
 - [Inoreader](https://www.inoreader.com/)
 - [Readdig.com](https://www.readdig.com/)
-- [Feeds Pub](https://feeds.pub/)
 - [Feedly](https://feedly.com/news-reader)
 
 ### 客户端
