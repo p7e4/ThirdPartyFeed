@@ -56,11 +56,13 @@ rss相关的一些资源
 ### 客户端
 
 - [Fluent Reader](https://github.com/yang991178/fluent-reader) (Windows/Linux/macOS/iOS/Android)
+- [Fluent Reader Lite](https://github.com/yang991178/fluent-reader-lite) (Android/iOS)
 - [ReadYou](https://github.com/Ashinch/ReadYou) (Android)
 - [yarr](https://github.com/nkanaev/yarr) (Windows/Linux/macOS)
 - [fatecore irreader](http://irreader.fatecore.com/) (Windows/macOS)
 - [RSS Guard](https://github.com/martinrotter/rssguard) (Windows/Linux/macOS)
 - [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) (macOS/iOS)
 - [Lettura](https://github.com/zhanglun/lettura) (Windows/Linux/macOS)
+- [Feeder](https://github.com/spacecowboy/Feeder) (Android)
 
 
