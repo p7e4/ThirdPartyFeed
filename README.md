@@ -37,7 +37,7 @@ rss相关的一些资源
 
 ## 阅读器推荐
 
-### 自建
+### 自建(self-hosted)
 
 - [FreshRSS](https://github.com/FreshRSS/FreshRSS)
 - [Miniflux](https://github.com/miniflux/v2)
@@ -46,8 +46,9 @@ rss相关的一些资源
 - [Tiny Tiny RSS](https://tt-rss.org)
 - [Awesome TTRSS](https://ttrss.henry.wang/zh)
 - [Stringer](https://github.com/stringer-rss/stringer)
+- [Fusion](https://github.com/0x2E/fusion)
 
-### 在线
+### 在线平台
 
 - [Inoreader](https://www.inoreader.com/)
 - [Readdig.com](https://www.readdig.com/)
